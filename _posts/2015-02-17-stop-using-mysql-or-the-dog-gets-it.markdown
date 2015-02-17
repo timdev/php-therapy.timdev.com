@@ -2,7 +2,7 @@
 layout: post
 title:  "Stop using mysql_* or the dog gets it!"
 date:   2015-02-17 19:50:05
-# categories: php_therapy mysql_query
+categories: therapy
 ---
 * Table oh contents, please
 {:toc}
