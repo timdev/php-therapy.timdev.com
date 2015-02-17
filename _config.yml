@@ -1,0 +1,12 @@
+# Site settings
+title: PHP Therapy
+email: tim@timdev.com
+description: Years of deadlines, demanding clients, and seemingly ever-changing fads have left many otherwise bright, capable, PHP developers in the dark ages. This site is for them. #> # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://timdev.github.io" # the base hostname & protocol for your site
+# twitter_username: timdev
+github_username:  timdev
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
