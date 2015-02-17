@@ -1,22 +1,29 @@
 # What?
 
-This is based on jeykll.
+The stuff behind https://phptherapy.timdev.com.
 
-I was going to use github pages, but then decided ... fuck it, I can host my own stuff.
+Stuck on github in case anyone wants to make a pull-request.
 
-## New Setup
+## How?
+
+This is based on jeykll.  It could probably be hosted on github.io, but isn't.  See github's docs on github-pages+jekyll
+for some background.
+
+In summary:
+
+### New Setup
 
 Make sure bundler is installed.
 
 Run something like `bundle install` to get all the dependencies if things are borked.
 
-## Usual Updates
+### Usual Updates
 
 Run `bundle exec jekyll serve` and browse to http://localhost:4000
 
 Jekyll will watch for changes and build static stuff in _site.
 
-## Deployment
+### Deployment
 
-For now, just push from local machine to bitbucket, and pull from bitbucket to properly-configured live server.
+For now, just push from local machine to github, and pull from github to properly-configured live server.
 

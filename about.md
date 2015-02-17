@@ -44,3 +44,7 @@ I've started with the grand-daddy of PHP atrocities: [continued usage of the `my
 
 These pages are written by [timdev](https://github.com/timdev), a guy who's been doing web application development for
 probably far too long.
+
+## Contributing
+
+If you think you can improve on anything here, feel free to create pull request, or open an issue [at github](https://github.com/timdev/php-therapy.timdev.com).
