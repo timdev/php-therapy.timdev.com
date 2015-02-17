@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stop using mysql_* or the dog gets it!"
+title:  "Stop using mysql_*"
 date:   2015-02-17 19:50:05
 categories: therapy
 ---

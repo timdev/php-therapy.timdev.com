@@ -6,12 +6,12 @@
 </description>
     <link>http://timdev.github.io/</link>
     <atom:link href="http://timdev.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 18 Feb 2015 00:26:07 +0100</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2015 00:26:07 +0100</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2015 00:40:35 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2015 00:40:35 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Stop using mysql_* or the dog gets it!</title>
+        <title>Stop using mysql_*</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#what-you-did&quot;&gt;What you did&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#why-you-probably-did-it&quot;&gt;Why you (probably) did it&lt;/a&gt;&lt;/li&gt;
@@ -202,8 +202,8 @@ In those cases, you need to take special care.  But that’s the beyond the scop
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 17 Feb 2015 20:50:05 +0100</pubDate>
-        <link>http://timdev.github.io/therapy/2015/02/17/stop-using-mysql-or-the-dog-gets-it.html</link>
-        <guid isPermaLink="true">http://timdev.github.io/therapy/2015/02/17/stop-using-mysql-or-the-dog-gets-it.html</guid>
+        <link>http://timdev.github.io/therapy/2015/02/17/stop-using-mysql_.html</link>
+        <guid isPermaLink="true">http://timdev.github.io/therapy/2015/02/17/stop-using-mysql_.html</guid>
         
         
         <category>therapy</category>

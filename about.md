@@ -37,7 +37,7 @@ developers.  The page will:
   * Present and explore a better way.
   * Demonstrate how adopting the better practice will improve their lives.
   
-I've started with the grand-daddy of PHP atrocities: [continued usage of the `mysql`]({% post_url 2015-02-17-stop-using-mysql-or-the-dog-gets-it %}) library (exposed in PHP as the 
+I've started with the grand-daddy of PHP atrocities: [continued usage of the `mysql`]({% post_url 2015-02-17-stop-using-mysql_ %}) library (exposed in PHP as the 
 `mysql_*` family of functions).
 
 ## Credits
